@@ -59,15 +59,15 @@ export default function LandingPage() {
           testimonials={[
             {
               name: "Sarah Mitchell",              handle: "Event Planner",              testimonial: "Sweet Layers created the most stunning cake for our wedding. The customization options and attention to detail were absolutely exceptional.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/confident-woman-standing-white_114579-77602.jpg"
+              imageSrc: "http://img.b2bpic.net/free-photo/confident-woman-standing-white_114579-77602.jpg?_wi=1"
             },
             {
               name: "James Robertson",              handle: "Corporate Client",              testimonial: "Elegant, intuitive, and delicious. The interactive builder made ordering seamless for our company anniversary celebration.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/male-executive-with-glasses_1098-760.jpg"
+              imageSrc: "http://img.b2bpic.net/free-photo/male-executive-with-glasses_1098-760.jpg?_wi=1"
             },
             {
               name: "Emma Davis",              handle: "Bride",              testimonial: "My dream cake became reality. Every detail was perfect, and the delivery was impeccable. Highly recommend Sweet Layers.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/confident-young-businesswoman-with-folded-arms_1262-1775.jpg"
+              imageSrc: "http://img.b2bpic.net/free-photo/confident-young-businesswoman-with-folded-arms_1262-1775.jpg?_wi=1"
             }
           ]}
           testimonialRotationInterval={5000}
@@ -89,13 +89,13 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              title: "Customize Every Layer",              description: "Select from premium flavors, frosting styles, and decorative elements to create your unique masterpiece.",              phoneOne: { imageSrc: "http://img.b2bpic.net/free-vector/mobile-app-concept_52683-5723.jpg" },
-              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-vector/crowdfunding-app-concept_52683-43974.jpg" }
+              title: "Customize Every Layer",              description: "Select from premium flavors, frosting styles, and decorative elements to create your unique masterpiece.",              phoneOne: { imageSrc: "http://img.b2bpic.net/free-vector/mobile-app-concept_52683-5723.jpg?_wi=1" },
+              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-vector/crowdfunding-app-concept_52683-43974.jpg?_wi=1" }
             },
             {
               id: 2,
-              title: "Real-Time Preview",              description: "Watch your cake design come to life with smooth animations and visualizations of your custom creation.",              phoneOne: { imageSrc: "http://img.b2bpic.net/free-vector/mobile-app-concept_52683-5723.jpg" },
-              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-vector/crowdfunding-app-concept_52683-43974.jpg" }
+              title: "Real-Time Preview",              description: "Watch your cake design come to life with smooth animations and visualizations of your custom creation.",              phoneOne: { imageSrc: "http://img.b2bpic.net/free-vector/mobile-app-concept_52683-5723.jpg?_wi=2" },
+              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-vector/crowdfunding-app-concept_52683-43974.jpg?_wi=2" }
             }
           ]}
           showStepNumbers={true}
@@ -143,13 +143,13 @@ export default function LandingPage() {
           buttonAnimation="slide-up"
           testimonials={[
             {
-              id: "1",              name: "Rachel Thompson",              handle: "Wedding Planner",              testimonial: "The customization options are endless, and the quality is outstanding. My clients rave about their cakes.",              imageSrc: "http://img.b2bpic.net/free-photo/confident-woman-standing-white_114579-77602.jpg"
+              id: "1",              name: "Rachel Thompson",              handle: "Wedding Planner",              testimonial: "The customization options are endless, and the quality is outstanding. My clients rave about their cakes.",              imageSrc: "http://img.b2bpic.net/free-photo/confident-woman-standing-white_114579-77602.jpg?_wi=2"
             },
             {
-              id: "2",              name: "Michael Chen",              handle: "Corporate Events",              testimonial: "Perfect for our company celebrations. Professional, elegant, and consistently delicious.",              imageSrc: "http://img.b2bpic.net/free-photo/male-executive-with-glasses_1098-760.jpg"
+              id: "2",              name: "Michael Chen",              handle: "Corporate Events",              testimonial: "Perfect for our company celebrations. Professional, elegant, and consistently delicious.",              imageSrc: "http://img.b2bpic.net/free-photo/male-executive-with-glasses_1098-760.jpg?_wi=2"
             },
             {
-              id: "3",              name: "Jessica Williams",              handle: "Bride",              testimonial: "The interactive builder was so fun to use. Our cake was absolutely stunning and tasted divine.",              imageSrc: "http://img.b2bpic.net/free-photo/confident-young-businesswoman-with-folded-arms_1262-1775.jpg"
+              id: "3",              name: "Jessica Williams",              handle: "Bride",              testimonial: "The interactive builder was so fun to use. Our cake was absolutely stunning and tasted divine.",              imageSrc: "http://img.b2bpic.net/free-photo/confident-young-businesswoman-with-folded-arms_1262-1775.jpg?_wi=2"
             },
             {
               id: "4",              name: "David Martinez",              handle: "Event Host",              testimonial: "Sweet Layers exceeded our expectations. Beautiful presentation and exceptional customer service.",              imageSrc: "http://img.b2bpic.net/free-photo/attractive-businessman-with-crossed-arms_1139-348.jpg"
